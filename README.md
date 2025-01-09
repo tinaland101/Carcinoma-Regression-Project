@@ -1,4 +1,4 @@
-# Mathplotlib_Challenge
+# Carcinoma Regression project
 
 # create variable for reading cvs from computer
 import pandas as pd
